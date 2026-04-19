@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'CFD- Portfolio'
+theme = "hugo-noir"
+
+[params]
+  name = "Ananth Narayan"
+  location = "Indian Institute of Technology Madras"
+  description = "I like to play with mathematical equations and like a kid, I found that it was associated with fluid flows. I firmly believe that whole world can be written as mathematical equation but point is, do we understand much information in very short span?. This motivated me to pursue in fluid flows numerically.\n Currently I work on heat transfer associated with Electrohydrodynamics (study on electric field effects on fluid flow) through Basilisk and OpenFOAM"
+  profile_image = "https://avatars.githubusercontent.com/u/221106578.jpeg"
+  # Social links
+  github = "https://github.com/Ananth-Narayan-IITM"
+  linkedin = "https://in.linkedin.com/in/s-ananth-narayan"
+  email = "am24d038@smail.iitm.ac.in"
